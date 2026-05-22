@@ -1,6 +1,6 @@
 🎬 PlayZilla – Mobile Cinema Player
 
-PlayZilla is a simple and modern web-based media player designed with a clean cinematic UI.  
+PlayZilla is a simple and modern web based media player designed with a clean cinematic UI.  
 This project was created for fun and learning purposes, inspired by mobile streaming apps, with a strong focus on **mobile responsiveness** and minimal design.
 
 🌐 Live Demo
